@@ -19,5 +19,5 @@ A responsive web-based **Spotify Clone** that replicates the look and feel of th
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
-- [Font Awesome](https:)
+
+- [Font Awesome]
